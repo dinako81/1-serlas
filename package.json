@@ -4,7 +4,7 @@
   "description": "Pirmasis projektas",
   "main": "index.js",
   "scripts": {
-    "dev": "dead-server --host=localhost --port=3000",
+    "dev": "dead-server --host=localhost --port=4201",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
