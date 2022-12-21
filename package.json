@@ -1,0 +1,18 @@
+{
+  "name": "Serlas",
+  "version": "1.0.0",
+  "description": "Pirmasis projektas",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --host=localhost --port=3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html"
+  ],
+  "author": "Dina",
+  "license": "ISC",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
