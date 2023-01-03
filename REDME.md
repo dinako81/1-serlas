@@ -14,7 +14,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/dinako81/1-serlas
+Site published at: https://dinako81.github.io/1-serlas/
 
 Design: [Serlas](https://miro.medium.com/max/1400/1*-i5m47JMGAhGVIdQPThnDQ.webp)
 
